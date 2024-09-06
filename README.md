@@ -19,6 +19,11 @@ Ce projet consiste à créer une application de gestion de tâches (ToDo List) e
 - **Tri des tâches par catégorie** : Les utilisateurs doivent pouvoir trier les tâches en fonction de leur catégorie.
 - **Tri par état (complétée/non complétée)** : Les utilisateurs doivent pouvoir trier les tâches selon leur état (tâches complétées ou non complétées).
 
+## Figma
+[version mobile ici](https://www.figma.com/design/rs2PdKvlnggFejSqZo2mIm/Todo-Mobile-App-(Community)-(Community)?node-id=10-2762&t=cgrmLqq969lZEv2U-1)
+
+[Version desktop](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F76436&width=435&lines=Fait+comme+tu+veux%2C+;en+vrai+on+s'en+fout;du+design%2C++tu+peux;faire+le+dessin+que;tu+veux%2C+on+te+;blamera+pas+pour+%C3%A7a)
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
