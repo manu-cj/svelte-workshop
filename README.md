@@ -33,10 +33,10 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ## Installation
 
- Pour créer un nouveau projet SvelteKit avec Vite, utilisez la commande suivante :
+ Pour créer un nouveau projet Svelte avec Vite, utilisez la commande suivante :
 
    ```bash
-   npm create svelte@latest my-project
+  npm create vite@latest my-svelte-app -- --template svelte
    ```
 
 # Documentation des Méthodes et Fonctionnalités Svelte
